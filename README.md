@@ -1,16 +1,16 @@
 # energy_consumption
 
-A new Flutter project.
+Welcome to the Energy Prediction for Indian States repository! This project is a mobile application built with Flutter, designed to predict the energy consumption of various Indian states using machine learning algorithms Random Forest Regression algorithm which have accuracy of above 95%. By leveraging historical data and sophisticated predictive modeling, this tool provides users with valuable insights into future energy demands.
 
-## Getting Started
+Features
+User-Friendly Interface: An intuitive and responsive mobile interface that allows users to input parameters and view predictions effortlessly.
+State-wise Energy Prediction: Predicts energy consumption for all Indian states.
+Historical Data Analysis: Utilizes historical energy consumption data to enhance prediction accuracy.
+Advanced Machine Learning Models: Implements state-of-the-art ML algorithms to deliver precise and reliable energy forecasts.
+Data Visualization: Provides graphical representations of energy trends and predictions.
+Technology Stack
+Frontend: Flutter, Dart
+Backend: Python (Flask) , ngrok 
+Machine Learning: Python, Scikit-learn, Pandas, NumPy
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
